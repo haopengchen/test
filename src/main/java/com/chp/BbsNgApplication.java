@@ -7,6 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class BbsNgApplication {
 
     public static void main(String[] args) {
+
         SpringApplication.run(BbsNgApplication.class, args);
     }
 
